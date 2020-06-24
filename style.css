@@ -1,0 +1,27 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+.letralogo {
+    font-family: 'Lobster', cursive;
+}
+
+
+navbar-brand footer  span {
+    font-family: 'Lobster', cursive;
+}
+
+
+h1 {
+    font-family: 'Cabin Bold', sans-serif;
+}
+
+.suscribe {
+    background-color: #dc3545;
+    font-family: 'Cabin Regular', sans-serif;  
+}
+
+.colorf {
+    color: #FFFFFF ;
+}
+
